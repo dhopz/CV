@@ -18,7 +18,7 @@ I'm comfortable being uncomfortable. I'm curious and I will often try to model s
 I enjoy working with Data. I created a Database to facilitate the IRR, NPV and ROI of Syndicated Property reports and I often use data products to drive my health and fitness goals. I also enjoy using Data Visualisation tools and techniques to better understand patterns and relationships.
 
 ### Problem Solver
-I enjoy working in Python. I'm tenacious yet pragmatic. I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) and [allocate tokens to bidders based on a first come first served basis with a condition: everyone gets something](https://github.com/dhopz/cv_projects/blob/master/Auto%20allocation%20and%20Scalebacks.ipynb). 
+I enjoy working in Python. I'm tenacious yet pragmatic. I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) and [how to allocate tokens to bidders based on a first come first served basis with a condition: everyone gets something.](https://github.com/dhopz/cv_projects/blob/master/Auto%20allocation%20and%20Scalebacks.ipynb)
 
 ## Work Experience
 
@@ -79,6 +79,6 @@ A 16-week intensive development bootcamp, focusing on :
 ## PERSONAL ACHIEVEMENTS
 
 Professional Sports Contract – “Auckland Aces”
-New Zealand Cricket Domestic Champion Ford Trophy 2007
-New Zealand Cricket Domestic Champion Twenty20 2007
+- New Zealand Cricket Domestic Champion Ford Trophy 2007
+- New Zealand Cricket Domestic Champion Twenty20 2007
 
