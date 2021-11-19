@@ -1,5 +1,5 @@
 ## David Houpapa
-[Projects](#Projects) | Skills | Experience | Education | [Qualifications](#Qualifications) | LinkedIn 
+[Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Qualifications](#Qualifications) | [LinkedIn](https://www.linkedin.com/in/davidhoupapa) 
 
 I am a Software Developer recently graduated from Makers Academy with a background working as a Business Analyst for a variety of Fintech and Wealth Management Firms in the UK, New Zealand and Australia. I have lead projects on Corporate Onboarding, Income Producing Portfolios, Open Banking, Order Management System integrations and Property Investment Platforms. I also had exposure to Corporate Treasury, Foreign Exchange and Settlements prior to being a Professional Cricketer. I have a passion for technological innovation and my experience at Makers Academy has taught me the importance of best coding practices and how to deliver products iteratively and incrementally. 
 
