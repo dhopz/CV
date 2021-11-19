@@ -12,7 +12,6 @@ I am a Software Developer recently graduated from Makers Academy with a backgrou
 
 
 ## Work Experience
-==================
 
 **Windmill Organics** (September 2020 to present)  
 _Consultant_
@@ -26,9 +25,8 @@ _Consultant_
 _Senior Business Analyst_
 
 - Conduct feasibility analysis, create and document requirements, provide specifications and create User Acceptance Test Plans for all products being launched.
-- Learn [Modern Portfolio Theory](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb) in order to better understand the core product and research Income Producing products.
 - Construct processes to meet regulatory Best Execution obligations, monitor trading and conduct Transaction Cost Analysis using Python and MySQL.
-- Develop and model [fractional investment trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) models using Python to explore feasibility. Produce data insights and visualisations to help business partners understand the business impact.
+- Develop and model fractional investment trading models using Python to explore feasibility. Produce data insights and visualisations to help business partners understand the business impact.
 - Research and conduct interviews with potential 3rd party vendors. Find suitable vendors for market connectivity, investment data, compliance, external custodians and payments. Present findings and negotiate contracts.
 
 **Proplend** (December 2017 to July 2019)  
@@ -51,38 +49,18 @@ _Investment Services Manager_
 - Conducted interviews with senior Stakeholders regarding Australian Taxation legislation to complete a project to automate Investor Quarterly Accrued Interest reporting using IRR, NPV and ROI calculations.
 
 ## Skills
+**Initiative**
+I'm comfortable being uncomfortable. I'm curious and I will often try to model scenarios in Jupyter Notebooks. I use self led learning to research topics relevant to my roles from [Modern Portfolio Theory](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb), [Monte Carlo Analysis](https://github.com/dhopz/cv_projects/blob/master/Monte%20Carlo%20Analysis.ipynb), Customer Churn and RFM Marketing models.
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+**Analytical**
+I enjoy working with Data. I created a Database to facilitate the IRR, NPV and ROI of Syndicated Property reports and I often use data products to drive my health and fitness goals. I also enjoy using Data Visualisation tools and techniques to better understand patterns and relationships.
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Problem Solver**
+I enjoy working in Python. I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading]((https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb). I use active listening and a host of Business Analaysis tools from Root Cause Analysis to Business Process Modelling, being tenacious yet pragmatic. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2021 to November 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
