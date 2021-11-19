@@ -1,4 +1,5 @@
 ## David Houpapa
+[Projects] | Skills | Experience | Education | Qualifications | LinkedIn 
 
 I am a Software Developer recently graduated from Makers Academy with a background working as a Business Analyst for a variety of Fintech and Wealth Management Firms in the UK, New Zealand and Australia. I have lead projects on Corporate Onboarding, Income Producing Portfolios, Open Banking, Order Management System integrations and Property Investment Platforms. I also had exposure to Corporate Treasury, Foreign Exchange and Settlements prior to being a Professional Cricketer. I have a passion for technological innovation and my experience at Makers Academy has taught me the importance of best coding practices and how to deliver products iteratively and incrementally. 
 
@@ -20,7 +21,7 @@ I enjoy working with Data. I created a Database to facilitate the IRR, NPV and R
 ### Problem Solver
 I enjoy working in Python. I'm tenacious yet pragmatic. I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) and [how to allocate tokens to bidders based on a first come first served basis with a condition: everyone gets something.](https://github.com/dhopz/cv_projects/blob/master/Auto%20allocation%20and%20Scalebacks.ipynb)
 
-## Work Experience
+## Experience
 
 **Windmill Organics** (September 2020 to present)  
 _Consultant_
@@ -76,7 +77,7 @@ A 16-week intensive development bootcamp, focusing on :
 - Prince2 Foundation
 - Agile Project Management (AgilePM®) Practitioner
 
-## PERSONAL ACHIEVEMENTS
+## Personal Achievements
 
 Professional Sports Contract – “Auckland Aces”
 - New Zealand Cricket Domestic Champion Ford Trophy 2007
