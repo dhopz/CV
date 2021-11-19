@@ -41,7 +41,7 @@ _Senior Business Analyst_
 **Proplend** (December 2017 to July 2019)  
 _Product Manager_
 
-- Designed and constructed [Auto lending functionality](https://github.com/dhopz/cv_projects/blob/master/Auto%20allocation%20and%20Scalebacks.ipynb), a product designed to assist with loan fulfilment predictability and to attract a passive investor base.
+- Designed and constructed Auto lending functionality, a product designed to assist with loan fulfilment predictability and to attract a passive investor base.
 - Using Python, scraped external websites to analyse market data to provide insight and assist with risk assessment.
 
 **Relendex** (December 2017 to July 2019)  
