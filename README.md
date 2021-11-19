@@ -1,13 +1,13 @@
-## Your Name
+## David Houpapa
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a Software Developer recently graduated from Makers Academy with a background working as a Business Analyst for a variety of Fintech and Wealth Management Firms in the UK, New Zealand and Australia. I have lead projects on Corporate Onboarding, Income Producing Portfolios, Open Banking, Order Management System integrations and Property Investment Platforms. I also had exposure to Corporate Treasury, Foreign Exchange and Settlements prior to being a Professional Cricketer. I have a passion for technological innovation and my experience at Makers Academy has taught me the importance of best coding practices and how to deliver products iteratively and incrementally. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Kusari - Crypto Wallet](https://github.com/EMDevelop/Kusari)   | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | Javascript, Python, React, SCSS, Django, PostgreSQL, APIs: Covelant, Coingecko, Web3, Moralis, BlockCypher, CryptoCompare |
+| [Acebook](https://acebook-anti-social-media-inc.herokuapp.com/) | A Facebook clone! | Ruby-on-Rails              |
 
 ## Work Experience
 
