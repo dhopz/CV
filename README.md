@@ -8,7 +8,7 @@ I am a Software Developer recently graduated from Makers Academy with a backgrou
 | ---------------------------- | ----------------- | ----------------- |
 | [Kusari - Crypto Wallet](https://github.com/EMDevelop/Kusari) | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | Javascript, Python, React, SCSS, Django, PostgreSQL, APIs: Covelant, Coingecko, Web3, Moralis, BlockCypher, CryptoCompare |
 | [Acebook](https://acebook-anti-social-media-inc.herokuapp.com/) | A Facebook clone! | Ruby-on-Rails |
-| [Makers BNB](https://github.com/dhopz/makers-bnb-post-team) | Part of the Makers Curriculum, make a Air BNB Clone!| Ruby, HTML, CSS
+| [Makers BNB](https://github.com/dhopz/makers-bnb-post-team) | Part of the Makers Curriculum, make an Air BNB Clone!| Ruby, HTML, CSS
 
 ## Skills
 ### Initiative
