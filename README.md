@@ -49,36 +49,37 @@ _Investment Services Manager_
 - Conducted interviews with senior Stakeholders regarding Australian Taxation legislation to complete a project to automate Investor Quarterly Accrued Interest reporting using IRR, NPV and ROI calculations.
 
 ## Skills
-**Initiative**
+### Initiative
 I'm comfortable being uncomfortable. I'm curious and I will often try to model scenarios in Jupyter Notebooks. I use self led learning to research topics relevant to my roles from [Modern Portfolio Theory](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb), [Monte Carlo Analysis](https://github.com/dhopz/cv_projects/blob/master/Monte%20Carlo%20Analysis.ipynb), Customer Churn and RFM Marketing models.
 
-**Analytical**
+### Analytical
 I enjoy working with Data. I created a Database to facilitate the IRR, NPV and ROI of Syndicated Property reports and I often use data products to drive my health and fitness goals. I also enjoy using Data Visualisation tools and techniques to better understand patterns and relationships.
 
-**Problem Solver**
+### Problem Solver
 I enjoy working in Python. I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading]((https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb). I use active listening and a host of Business Analaysis tools from Root Cause Analysis to Business Process Modelling, being tenacious yet pragmatic. 
 
 ## Education
 
 #### Makers Academy (August 2021 to November 2021)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+A 16-week intensive development bootcamp, focusing on :
 
-#### Your University / College (start_date to end_date)
+- Agile methodologies
+- Object-oriented design
+- Test driven development and behaviour driven development
+- Pair programming
+- XP values
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Qualifications
 
-#### Any other qualifications
+- DataCamp - Data Engineer with Python
+- BCS International Diploma in Business Analysis
+- Certified SCRUM Product Owner
+- Prince2 Foundation
+- Agile Project Management (AgilePM®) Practitioner
 
-That in some arguable way make you a better software developer or well-rounded person
+## PERSONAL ACHIEVEMENTS
 
-## Hobbies
+Professional Sports Contract – “Auckland Aces”
+New Zealand Cricket Domestic Champion Ford Trophy 2007
+New Zealand Cricket Domestic Champion Twenty20 2007
 
-Any cool stuff that makes you a super part of a software development team
