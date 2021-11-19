@@ -13,7 +13,7 @@ I am a Software Developer recently graduated from Makers Academy with a backgrou
 
 ## Skills
 ### Initiative
-I'm comfortable being uncomfortable. I'm curious and I will often try to model scenarios in Jupyter Notebooks. I use self led learning to research topics relevant to my roles from [Portfolio Analsis](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb), [Monte Carlo Analysis](https://github.com/dhopz/cv_projects/blob/master/Monte%20Carlo%20Analysis.ipynb), Customer Churn and RFM Marketing models.
+I'm comfortable being uncomfortable. I'm curious and I will often try to model scenarios in Jupyter Notebooks. I use self led learning to research topics relevant to my roles from [Portfolio Analysis](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb), [Monte Carlo Analysis](https://github.com/dhopz/cv_projects/blob/master/Monte%20Carlo%20Analysis.ipynb), Customer Churn and RFM Marketing models.
 
 ### Analytical
 I enjoy working with Data. I created a Database to facilitate the IRR, NPV and ROI of Syndicated Property reports and I often use data products to drive my health and fitness goals. I also enjoy using Data Visualisation tools and techniques to better understand patterns and relationships.
