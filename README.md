@@ -6,10 +6,19 @@ I am a Software Developer recently graduated from Makers Academy with a backgrou
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Kusari - Crypto Wallet](https://github.com/EMDevelop/Kusari)   | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | Javascript, Python, React, SCSS, Django, PostgreSQL, APIs: Covelant, Coingecko, Web3, Moralis, BlockCypher, CryptoCompare |
+| [Kusari - Crypto Wallet](https://github.com/EMDevelop/Kusari) | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | Javascript, Python, React, SCSS, Django, PostgreSQL, APIs: Covelant, Coingecko, Web3, Moralis, BlockCypher, CryptoCompare |
 | [Acebook](https://acebook-anti-social-media-inc.herokuapp.com/) | A Facebook clone! | Ruby-on-Rails |
 | [Makers BNB](https://github.com/dhopz/makers-bnb-post-team) | Part of the Makers Curriculum, make a Air BNB Clone!| Ruby, HTML, CSS
 
+## Skills
+### Initiative
+I'm comfortable being uncomfortable. I'm curious and I will often try to model scenarios in Jupyter Notebooks. I use self led learning to research topics relevant to my roles from [Modern Portfolio Theory](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb), [Monte Carlo Analysis](https://github.com/dhopz/cv_projects/blob/master/Monte%20Carlo%20Analysis.ipynb), Customer Churn and RFM Marketing models.
+
+### Analytical
+I enjoy working with Data. I created a Database to facilitate the IRR, NPV and ROI of Syndicated Property reports and I often use data products to drive my health and fitness goals. I also enjoy using Data Visualisation tools and techniques to better understand patterns and relationships.
+
+### Problem Solver
+I enjoy working in Python. I'm tenacious yet pragmatic. I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) and [allocate tokens to bidders based on a first come first served basis with a condition: everyone gets something](https://github.com/dhopz/cv_projects/blob/master/Auto%20allocation%20and%20Scalebacks.ipynb). 
 
 ## Work Experience
 
@@ -47,16 +56,6 @@ _Investment Services Manager_
 
 - Constructed requirements documentation to develop an Investment Operations database to collect and record data to complete complex financial analysis for HNW Investors in Property Finance.
 - Conducted interviews with senior Stakeholders regarding Australian Taxation legislation to complete a project to automate Investor Quarterly Accrued Interest reporting using IRR, NPV and ROI calculations.
-
-## Skills
-### Initiative
-I'm comfortable being uncomfortable. I'm curious and I will often try to model scenarios in Jupyter Notebooks. I use self led learning to research topics relevant to my roles from [Modern Portfolio Theory](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb), [Monte Carlo Analysis](https://github.com/dhopz/cv_projects/blob/master/Monte%20Carlo%20Analysis.ipynb), Customer Churn and RFM Marketing models.
-
-### Analytical
-I enjoy working with Data. I created a Database to facilitate the IRR, NPV and ROI of Syndicated Property reports and I often use data products to drive my health and fitness goals. I also enjoy using Data Visualisation tools and techniques to better understand patterns and relationships.
-
-### Problem Solver
-I enjoy working in Python. I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb). I use active listening and a host of Business Analaysis tools from Root Cause Analysis to Business Process Modelling, being tenacious yet pragmatic. 
 
 ## Education
 
