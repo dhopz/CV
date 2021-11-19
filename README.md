@@ -12,12 +12,13 @@ I am a Software Developer recently graduated from Makers Academy with a backgrou
 
 
 ## Work Experience
+==================
 
 **Windmill Organics** (September 2020 to present)  
 _Consultant_
 
 - Act as a Consultant for implementing Netsuite as an ERP solution for a Organic Food Distribution company with over 800 products and 130+ wholesale Customers in both Europe and UK.
-- Using SuiteScript APIs (Oracle version of JavaScript), manipulate core business records and 3PL integration data to identify Balance Sheet errors and Inventory Reconciliation
+- Using SuiteScript APIs (Oracle version of JavaScript), manipulate core business records and 3PL integration data to identify Balance Sheet errors and Inventory Reconciliation.
 - Create a Python CLI to enable staff to create HTML and PDF Templates to distrubute to customers
 - Construct an Operations Python GUI to identify 15% of Sales Fulfilment errors to enable timely distribution of invoices. 
 
@@ -25,7 +26,7 @@ _Consultant_
 _Senior Business Analyst_
 
 - Conduct feasibility analysis, create and document requirements, provide specifications and create User Acceptance Test Plans for all products being launched.
-- Learn [Modern Portfolio Theory](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb) in order to better understand the core product in order to build new products.
+- Learn [Modern Portfolio Theory](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb) in order to better understand the core product and research Income Producing products.
 - Construct processes to meet regulatory Best Execution obligations, monitor trading and conduct Transaction Cost Analysis using Python and MySQL.
 - Develop and model [fractional investment trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) models using Python to explore feasibility. Produce data insights and visualisations to help business partners understand the business impact.
 - Research and conduct interviews with potential 3rd party vendors. Find suitable vendors for market connectivity, investment data, compliance, external custodians and payments. Present findings and negotiate contracts.
