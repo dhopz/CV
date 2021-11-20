@@ -16,10 +16,10 @@ I am a Software Developer recently graduated from Makers Academy with a backgrou
 I'm comfortable being uncomfortable. I'm curious and I will often try to model scenarios in Jupyter Notebooks. I use self led learning to research topics relevant to my roles from [Portfolio Analysis](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb), [Monte Carlo Analysis](https://github.com/dhopz/cv_projects/blob/master/Monte%20Carlo%20Analysis.ipynb), Customer Churn and RFM Marketing models.
 
 ### Analytical
-I enjoy working with Data. I created a Database to facilitate the IRR, NPV and ROI of Syndicated Property reports and I often use data products to drive my health and fitness goals. I also enjoy using Data Visualisation tools and techniques to better understand patterns and relationships.
+I enjoy working with Data. I created a Database to facilitate the IRR, NPV and ROI of Syndicated Property reports and I often use data products to drive my health and fitness goals. I also enjoy using Data Visualisation tools and techniques to better understand patterns and relationships. 
 
 ### Problem Solver
-I enjoy working in Python. I'm tenacious yet pragmatic. I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) and [how to allocate tokens to bidders based on a first come first served basis with a condition: everyone gets something.](https://github.com/dhopz/cv_projects/blob/master/Auto%20allocation%20and%20Scalebacks.ipynb)
+I enjoy working in Python. I'm tenacious yet pragmatic. I deploy a range of techniques from MindMapping and FlowCharts and I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) and [how to allocate tokens to bidders based on a first come first served basis with a condition: everyone gets something.](https://github.com/dhopz/cv_projects/blob/master/Auto%20allocation%20and%20Scalebacks.ipynb)
 
 ## Experience
 
