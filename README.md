@@ -1,9 +1,13 @@
 ## David Houpapa
-[Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Qualifications](#Qualifications) | [LinkedIn](https://www.linkedin.com/in/davidhoupapa) 
+[Projects](Projects) | [Skills](Skills) | [Experience](Experience) | [Education](Education) | [Qualifications](Qualifications) | [LinkedIn](https://www.linkedin.com/in/davidhoupapa)
 
 I am a Software Developer recently graduated from Makers Academy with a background working as a Business Analyst for a variety of Fintech and Wealth Management Firms in the UK, New Zealand and Australia. 
 
-I have lead projects on Corporate Onboarding, Income Producing Portfolios, Open Banking, Order Management System integrations and Property Investment Platforms. I also had exposure to Corporate Treasury, Foreign Exchange and Settlements prior to being a Professional Cricketer. 
+My drive and enthusiasm for Code is driven by my desire to continually learn. Through out my professional career, my most rewarding moments have been when I have achieved a 'flow state' while working in VS Studio. I enjoy the problem-solving aspect, the research and exploration of new approaches that Software Development provides.
+
+In my professional career I have had the opportunity to work in challenging and new environments. I have lead projects on Corporate Onboarding, Income Producing Portfolios, Open Banking, Order Management System Integrations and Property Investment Platforms. Prior to these roles, I used to work in Investment Banking Operations where I gained exposure to Corporate Treasury, Foreign Exchange and Settlements. 
+
+I also have had the opportunity to play professional Cricket, playing with and against some of the world's best cricketers. My commitment to team ethos and success has been evident not only in my personal endeavours, but also my professional career. 
 
 I have a passion for technological innovation and my experience at Makers Academy has taught me the importance of best coding practices and how to deliver products iteratively and incrementally. 
 
@@ -11,38 +15,35 @@ Tech Skills -
 
 ## Projects
 
-| Name                         | Description       | Tech       | Testing Framework       |
-| ---------------------------- | ----------------- | ----------------- | ----------------- |
-| [Kusari](https://github.com/EMDevelop/Kusari) | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | Javascript, Python, React, SCSS, Django, PostgreSQL, APIs: Covelant, Coingecko, Web3, Moralis, BlockCypher, CryptoCompare |
-| [Acebook](https://acebook-anti-social-media-inc.herokuapp.com/) | A Facebook clone! | Ruby-on-Rails |
-| [Makers BNB](https://github.com/dhopz/makers-bnb-post-team) | Part of the Makers Curriculum, make an Air BNB Clone!| Ruby, HTML, CSS
-
-## Prototypes
-
-| Name                         | Description       | Tech/tools        |
+| Name                         | Description       | Tech       | 
 | ---------------------------- | ----------------- | ----------------- |
 | [Kusari](https://github.com/EMDevelop/Kusari) | Named after the Japanese word for 'chain', this full-stack blockchain application sets out to consolidate investors Cryptocurrency investments into one application. | Javascript, Python, React, SCSS, Django, PostgreSQL, APIs: Covelant, Coingecko, Web3, Moralis, BlockCypher, CryptoCompare |
 | [Acebook](https://acebook-anti-social-media-inc.herokuapp.com/) | A Facebook clone! | Ruby-on-Rails |
 | [Makers BNB](https://github.com/dhopz/makers-bnb-post-team) | Part of the Makers Curriculum, make an Air BNB Clone!| Ruby, HTML, CSS
-
+| [Shinchaku Kusari](https://github.com/dhopz/crypto-info) | Inspired by a Tik Tok Artist and a Web Design Account, I wanted to reinforce my learning from Kusari and learn how to create bespoke Data Visualisation tools to display Historic Crypto Prices. By creating a portfolio, the user can track portfolio performance using simple financial metrics. | React, Firebase, ChartJS, Material UI
 
 ## Skills
+
+### Data Analysis
+- Create Python CLI using Pandas to proactively monitor inventory and identify potential risks Balance Sheet reporting.
+- Create complex SQL queries to facilitate the IRR, NPV and ROI of Syndicated Property transactions. 
+- Gained exposure to Apache Airflow, PySpark and Scala by completing a Data Engineering Track at DataCamp.
+- Build dynamic data visualizations that aid management decision support using Plotly Dash, Power BI and Tableau.
+
 ### Initiative
-I'm comfortable being uncomfortable. I'm curious and I will often try to model scenarios in Jupyter Notebooks. 
+- By being proactive and decisive, I often revert to Business Analysis techniques to find opportunities for improvement.
 - I use self led learning to research topics relevant to my roles from [Portfolio Analysis](https://github.com/dhopz/cv_projects/blob/master/Portfolio%20Analysis.ipynb), [Monte Carlo Analysis](https://github.com/dhopz/cv_projects/blob/master/Monte%20Carlo%20Analysis.ipynb), Customer Churn and RFM Marketing models.
 
-### Analytical
-I enjoy working with Data. I created a Database to facilitate the IRR, NPV and ROI of Syndicated Property reports and I often use data products to drive my health and fitness goals. I also enjoy using Data Visualisation tools and techniques to better understand patterns and relationships. 
-
 ### Problem Solver
-I enjoy working in Python. I'm tenacious yet pragmatic. I deploy a range of techniques from MindMapping and FlowCharts and I try to use my skills as often as possible. From creating and distributing reports, simple GUIs for automating banking and payments to more complex projects such as [Fractional Share Trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) and [how to allocate tokens to bidders based on a first come first served basis with a condition: everyone gets something.](https://github.com/dhopz/cv_projects/blob/master/Auto%20allocation%20and%20Scalebacks.ipynb)
+- I deploy a range of techniques from MindMapping and FlowCharts. I have also completed Root-Cause analysis as a method to explore the underlying cause-and-effect of particular problems.
+- I think conceptually when presented with a theory. An example is how I would approach complex projects such as [Fractional Share Trading](https://github.com/dhopz/cv_projects/blob/master/Fractional%20Share%20Scenario.ipynb) and [how to allocate tokens to bidders based on a first come first served basis with a condition: everyone gets something.](https://github.com/dhopz/cv_projects/blob/master/Auto%20allocation%20and%20Scalebacks.ipynb)
 
 ## Experience
 
 **Windmill Organics** (September 2020 to present)  
-_Consultant_
+_Business Data Analyst_
 
-- Act as a Consultant for implementing Netsuite as an ERP solution for a Organic Food Distribution company with over 800 products and 130+ wholesale Customers in both Europe and UK.
+- Act as a Business Datat Analyst for implementing Netsuite as an ERP solution for a Organic Food Distribution company with over 800 products and 130+ wholesale Customers in both Europe and UK.
 - Using SuiteScript APIs (Oracle version of JavaScript), manipulate core business records and 3PL integration data to identify Balance Sheet errors and Inventory Reconciliation.
 - Create a Python CLI to enable staff to create HTML and PDF Templates to distrubute to customers
 - Construct an Operations Python GUI to identify 15% of Sales Fulfilment errors to enable timely distribution of invoices. 
