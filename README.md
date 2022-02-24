@@ -1,5 +1,5 @@
 ## David Houpapa
-[Projects](Projects) | [Skills](Skills) | [Experience](Experience) | [Education](Education) | [Qualifications](Qualifications) | [LinkedIn](https://www.linkedin.com/in/davidhoupapa)
+[Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [Qualifications](#Qualifications) | [LinkedIn](https://www.linkedin.com/in/davidhoupapa)
 
 I am a Software Developer recently graduated from Makers Academy with a background working as a Business Analyst for a variety of Fintech and Wealth Management Firms in the UK, New Zealand and Australia. 
 
