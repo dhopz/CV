@@ -11,8 +11,6 @@ I also have had the opportunity to play professional Cricket, playing with and a
 
 I have a passion for technological innovation and my experience at Makers Academy has taught me the importance of best coding practices and how to deliver products iteratively and incrementally. 
 
-Tech Skills -
-
 ## Projects
 
 | Name                         | Description       | Tech       | 
